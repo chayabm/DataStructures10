@@ -1,4 +1,4 @@
-<html><head><link href="https://fonts.googleapis.com/css?family=Muli:400,700&amp;display=swap" rel="stylesheet"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">let data = {
+let data = {
   semester: "Spring 2020",
   courses: [
     {
@@ -340,4 +340,3 @@ for(let i = 0; i &lt; courses.length; i++){
     }
   } 
 }
-</pre><div id="pouch-root"></div></body></html>
